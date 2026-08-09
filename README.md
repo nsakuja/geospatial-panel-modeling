@@ -5,7 +5,7 @@
 
 **The Impact:** The model revealed a clear disparity: Informal settlements suffer an additional 0.2°C thermal penalty during high-pollution events compared to formally developed areas. These quantitative insights provide a scalable, data-driven framework for targeted infrastructure investments, proving that generalized, city-wide mandates are an inefficient way to solve complex challenges.
 
-## Future Roadmap:
+Future Roadmap:
 This V1 TWFE regression model proves the historical relationship between pollution and urban heat. To scale this into a production-ready B2B or B2G asset, the following iterations are proposed:
 
 *   **V2 (Real-Time API):** Transition from static CSVs to a live data pipeline integrating real-time MODIS and Sentinel-5P API feeds, allowing dynamic daily heat-penalty scoring.
