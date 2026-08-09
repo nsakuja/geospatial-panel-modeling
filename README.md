@@ -1,5 +1,5 @@
 # geospatial-panel-modeling
-The Problem: Urban heat and air pollution are typically tackled as entirely separate issues, but they actually compound one another. The goal of this research was to test the "thermal blanket effect", where daytime smog traps heat and prevents nighttime cooling, and to determine if it disproportionately burdens informal settlements in New Delhi.
+*The Problem*: Urban heat and air pollution are typically tackled as entirely separate issues, but they actually compound one another. The goal of this research was to test the "thermal blanket effect", where daytime smog traps heat and prevents nighttime cooling, and to determine if it disproportionately burdens informal settlements in New Delhi.
 
 The Methodology: I constructed a high-resolution spatial dataset tracking three pre-monsoon summers (April to June, 2022–2024). After merging satellite temperature and pollution data with official settlement coordinates, I used a Two-Way Fixed Effects regression to isolate the exact relationship between smog and trapped heat.
 
